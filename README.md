@@ -1,13 +1,13 @@
-## React Google Books Search
+# React Google Books Search
 
-An application created using the MERN stack and allows users to search for books via the Google Books API. Search results are dynamically rendered in the UI and users have the option to save and/or delete books.
+## Description
+React Google Books Search allows users to search Google Books for books and save them in a MongoDB database. It was built using MongoDB, Express, React, and Node.js.
 
-View the deployed application at: <b><a href="" target="_blank"></a></b>
+## Instructions
+Navigate using the tabs at the top of page. On the search page, search for a book and then save it using the save button. On the saved books page, press the delete button to delete saved books from your saved list.
 
-### Technologies Used
- - React JS
- - MongoDB
- - Mongoose
- - Express JS
- - Node
- - Axios
+## Deployed Project
+The deployed project can be found [here]().
+
+## Example Image
+![React Google Books Search]()
