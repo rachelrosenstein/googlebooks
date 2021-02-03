@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import API from "../utils/API";
-import { Container, Row, Col } from "../components/Grid";
-import { BookList, BookListItem } from "../components/List";
+import { Container, Row, Col } from "../components/Grid/index";
+import { BookList, BookListItem } from "../components/List/index";
 
 class Save extends Component {
 
