@@ -23,7 +23,7 @@ app.get("*", (req, res) => {
 });
 
 mongoose.connect(
-  process.env.MONGODB_URI || 'mongodb://localhost/google-book-s',
+  process.env.MONGODB_URI || 'mongodb://localhost/googlebooks',
   {
     useNewUrlParser: true,
     useUnifiedTopology: true,
