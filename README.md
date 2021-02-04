@@ -9,5 +9,8 @@ Navigate using the tabs at the top of page. On the search page, search for a boo
 ## Deployed Project
 The deployed project can be found [here](https://dry-dusk-88631.herokuapp.com/).
 
-## Example Image
-![React Google Books Search]()
+## Example Images
+![React Google Books Search](https://github.com/rachelrosenstein/googlebooks/blob/main/Screen%20Shot%202021-02-04%20at%209.15.07%20AM.png?raw=true)
+
+![React Google Books Search](https://github.com/rachelrosenstein/googlebooks/blob/main/Screen%20Shot%202021-02-04%20at%209.15.27%20AM.png?raw=true)
+
